@@ -1,0 +1,56 @@
+.clear{
+  clear:left;
+
+}
+
+header{
+  background-color:aliceblue;
+  height:60px;
+}
+header a{
+  float: left;
+  padding-left: 20px;
+  line-height:60px;
+}
+
+header h1{
+  font-family: 'Courier New', Courier, monospace;
+  text-align:center;
+}
+
+.login{
+  float:right;
+  font-size:20px;
+  display:block;
+  background-color:aqua;
+  border-radius:10px;
+  color:red;
+  padding:0 20px;
+}
+
+.blog-title h1{
+  font-size:70px;
+  font-family:fantasy;
+}
+
+.recent-added{
+  width:50%;
+}
+
+.book-title h3{
+  font-size:15px;
+}
+.summary{
+  float:left;
+}
+
+p{
+  width:60%;
+}
+
+p.summary{
+  word-wrap: break-word;
+}
+.book-image{
+  width:40%;
+}
